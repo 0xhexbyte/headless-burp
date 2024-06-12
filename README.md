@@ -50,7 +50,7 @@ The extension is packaged as a fat jar at target/headless-burp-scanner-master-SN
 
 ### Usage
 
-Bu8ld the extension as shown above or install it from the [BApp Store]
+Build the extension as shown above or install it from the [BApp Store]
 
 #### Using a loclally built extension jar
 
